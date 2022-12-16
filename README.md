@@ -1,4 +1,3 @@
-# Name: Samuel Sharivker
-# Email: samuels0052@hstat.org
-# School: HSTAT
-
+# Samuel Sharivker
+# High School of Telecommunication Arts and Technology
+# [samuels0052@hsat.org](mailto:samuels0052@hsat.org)
