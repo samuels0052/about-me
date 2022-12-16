@@ -15,3 +15,14 @@ School Schedule
 * Chemistry
 * Algebra 2
 * Model UN (Tuesday)
+
+Life Schedule:
+
+* Wake up
+* Go to school
+* Go to work (on mondays go home first, wed, thurs)
+* Come home and eat
+* Go to BJJ training if not too much work to finish
+* Shower
+* Code or play video games
+* Sleep
